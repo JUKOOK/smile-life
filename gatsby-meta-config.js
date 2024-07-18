@@ -17,9 +17,8 @@
 
 /** @type {MetaConfig} */
 const metaConfig = {
-  //TODO: Change the values below according to your project
   title: "blog-stream",
-  description: "Blog that shares interesting events and issues",
+  description: "Blog that shares useful and interesting events and issues from around the world.",
   author: "JUKOOK",
   siteUrl: "https://smile-life.netlify.app",
   lang: "en-US",
