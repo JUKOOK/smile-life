@@ -17,7 +17,7 @@
 
 /** @type {MetaConfig} */
 const metaConfig = {
-  title: "Smile-Life",
+  title: "Smile Life",
   description: "Blog that shares useful and interesting events and issues from around the world.",
   author: "JUKOOK",
   siteUrl: "https://smile-life.netlify.app",
